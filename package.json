@@ -1,0 +1,24 @@
+{
+  "name": "cypres-automation",
+  "description": "��#\u0000 \u0000C\u0000y\u0000p\u0000r\u0000e\u0000s\u0000s\u0000A\u0000u\u0000t\u0000o\u0000m\u0000a\u0000t\u0000i\u0000o\u0000n\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdab11/CypressAutomation.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "jdab01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdab11/CypressAutomation/issues"
+  },
+  "homepage": "https://github.com/jdab11/CypressAutomation#readme"
+}
